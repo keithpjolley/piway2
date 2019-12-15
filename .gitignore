@@ -1,0 +1,7 @@
+emergency/
+tmp/
+etc/google_cal_credentials.json
+etc/google_cal_credentials.pickle
+etc/google_cal_id.txt
+etc/google_cal_secret.json
+etc/instance/pirouter.sqlite
